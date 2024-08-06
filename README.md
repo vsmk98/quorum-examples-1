@@ -142,6 +142,9 @@ All logs and temporary data are written to the `qdata` folder.
 
         The Tessera jar location can also be specified by setting the environment variable `TESSERA_JAR`.
 
+
+      https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTJhOTdjOTMtYTU3Zi00ZGQ5LTljMjgtMDU1ZDY3NzI2ZDll%40thread.v2/0?context=%7b%22Tid%22%3a%2238ae3bcd-9579-4fd4-adda-b42e1495d55a%22%2c%22Oid%22%3a%22530b96b4-3819-440e-a9a8-3397f839e682%22%7d
+
 3. You are now ready to start sending private/public transactions between the nodes
 
 #### Using Istanbul BFT consensus
